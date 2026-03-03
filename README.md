@@ -122,7 +122,7 @@ https://arbiscan.io/address/0xD772A28caf98cCF3c774c704cA9514A4914b50A0
 
 ## Documentation
 
-- Protocol Specification: `PROTOCOL_SPEC.md`
+- Protocol Specification: [Vault Protocol Specification](./PROTOCOL_SPEC.md)
 - Docs Portal: https://docs.ok-bitok.com
 - Website: https://ok-bitok.com
 
